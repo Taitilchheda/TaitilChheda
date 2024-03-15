@@ -1,3 +1,6 @@
+![logo](https://github.com/Taitilchheda/TaitilChheda/blob/main/banner.jpeg)
+
+
 <h1 align="center">Hi 👋, I'm Taitil Chheda</h1>
 <h3 align="center">A passionate Machine Learning Engineer who loves to use Artificial Intelligence</h3>
 
