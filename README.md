@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **taitilchheda@gmail.com**
 
-- 📄 Know about my hackathon experiences [SIGAI – Clockout 1.0,ACM – Digihunt 4.0]
+- 📄 My hackathon experiences [SIGAI – Clockout 1.0,ACM – Digihunt 4.0]
 
 - ⚡ Fun fact **I am a fast learner and can figure out things pretty quickly!**
 
