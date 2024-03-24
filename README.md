@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python,Image processing, Computer Vision, Automation,TensorFlow, Machine Learning**
 
-- 📫 How to reach me **taitilchheda@gmail.com**
+- 📫 Reach me at **taitilchheda@gmail.com**
 
 - 📄 My hackathon experiences [SIGAI – Clockout 1.0,ACM – Digihunt 4.0]
 
